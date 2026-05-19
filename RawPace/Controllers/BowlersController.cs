@@ -6,7 +6,7 @@ using RawPace.Models;
 
 namespace RawPace.Controllers
 {
-    [Authorize] // <--- This locks down the entire controller to only logged-in scouts
+    [Authorize] 
     [Route("api/[controller]")]
     [ApiController]
     public class BowlersController : ControllerBase
@@ -18,7 +18,6 @@ namespace RawPace.Controllers
             _context = context;
         }
 
-        // Helper method to extract the logged-in scout's ID from their JWT token
         private int GetCurrentUserId()
         {
             var userIdClaim = User.FindFirst(ClaimTypes.NameIdentifier)?.Value;
