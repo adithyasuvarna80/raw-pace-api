@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RawPace")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6f2900c0640259583ee12f755be79709732a3ce7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d83c883f42868ba8a4cb0d5e558f9db1791e2fc0")]
 [assembly: System.Reflection.AssemblyProductAttribute("RawPace")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RawPace")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

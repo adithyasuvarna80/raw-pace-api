@@ -12,7 +12,9 @@ namespace RawPace.Data
 
 
         public DbSet<Bowler> Bowlers { get; set; }
+        public DbSet<User> Users { get; set; }
 
-        
+
+
     }
 }
