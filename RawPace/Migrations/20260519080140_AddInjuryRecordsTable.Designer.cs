@@ -2,6 +2,7 @@
 using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using Npgsql.EntityFrameworkCore.PostgreSQL.Metadata;
 using RawPace.Data;
@@ -11,9 +12,11 @@ using RawPace.Data;
 namespace RawPace.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    partial class ApplicationDbContextModelSnapshot : ModelSnapshot
+    [Migration("20260519080140_AddInjuryRecordsTable")]
+    partial class AddInjuryRecordsTable
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -51,9 +54,6 @@ namespace RawPace.Migrations
                     b.Property<double>("TopSpeed")
                         .HasColumnType("double precision");
 
-                    b.Property<int>("UserId")
-                        .HasColumnType("integer");
-
                     b.HasKey("Id");
 
                     b.ToTable("Bowlers");
@@ -84,28 +84,6 @@ namespace RawPace.Migrations
                     b.HasKey("Id");
 
                     b.ToTable("InjuryRecords");
-                });
-
-            modelBuilder.Entity("RawPace.Models.SpeedRecord", b =>
-                {
-                    b.Property<int>("Id")
-                        .ValueGeneratedOnAdd()
-                        .HasColumnType("integer");
-
-                    NpgsqlPropertyBuilderExtensions.UseIdentityByDefaultColumn(b.Property<int>("Id"));
-
-                    b.Property<int>("BowlerId")
-                        .HasColumnType("integer");
-
-                    b.Property<DateTime>("DateRecorded")
-                        .HasColumnType("timestamp with time zone");
-
-                    b.Property<double>("TopSpeed")
-                        .HasColumnType("double precision");
-
-                    b.HasKey("Id");
-
-                    b.ToTable("SpeedRecords");
                 });
 
             modelBuilder.Entity("RawPace.Models.User", b =>

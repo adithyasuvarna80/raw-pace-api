@@ -3,9 +3,9 @@ using Microsoft.IdentityModel.Tokens;
 using System.IdentityModel.Tokens.Jwt;
 using System.Security.Claims;
 using System.Text;
-using RawPace.Data; 
-using RawPace.Models; 
-using BCrypt.Net; 
+using RawPace.Data;
+using RawPace.Models;
+using BCrypt.Net;
 
 namespace RawPace.Controllers
 {
@@ -52,18 +52,23 @@ namespace RawPace.Controllers
                 return Unauthorized("Invalid scout credentials!");
             }
 
-            var token = GenerateToken(user.Username);
+            // FIX 1: We now pass the entire 'user' object so we have access to their integer ID
+            var token = GenerateToken(user);
             return Ok(new { token = token });
         }
 
-        private string GenerateToken(string username)
+        // FIX 2: Updated method to accept the User object
+        private string GenerateToken(User user)
         {
             var securityKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(_configuration["Jwt:Key"]!));
             var credentials = new SigningCredentials(securityKey, SecurityAlgorithms.HmacSha256);
 
+            // FIX 3: Added the integer ID as the NameIdentifier claim
             var claims = new[]
             {
-                new Claim(JwtRegisteredClaimNames.Sub, username),
+                new Claim(ClaimTypes.NameIdentifier, user.Id.ToString()), // This fixes the int.Parse() crash!
+                new Claim(ClaimTypes.Name, user.Username),
+                new Claim(JwtRegisteredClaimNames.Sub, user.Username),
                 new Claim(JwtRegisteredClaimNames.Jti, Guid.NewGuid().ToString())
             };
 

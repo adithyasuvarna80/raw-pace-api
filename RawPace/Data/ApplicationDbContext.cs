@@ -14,6 +14,9 @@ namespace RawPace.Data
         public DbSet<Bowler> Bowlers { get; set; }
         public DbSet<User> Users { get; set; }
 
+        public DbSet<InjuryRecord> InjuryRecords { get; set; }
+
+        public DbSet<SpeedRecord> SpeedRecords { get; set; }
 
 
     }

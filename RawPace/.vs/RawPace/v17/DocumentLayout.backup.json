@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Adithya\\myprojectAng\\raw-pace-api\\RawPace\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{55BB9F40-C4CC-465B-86A0-97650A0B10C4}|RawPace.csproj|c:\\users\\adithya\\myprojectang\\raw-pace-api\\rawpace\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{55BB9F40-C4CC-465B-86A0-97650A0B10C4}|RawPace.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{55BB9F40-C4CC-465B-86A0-97650A0B10C4}|RawPace.csproj|c:\\users\\adithya\\myprojectang\\raw-pace-api\\rawpace\\controllers\\bowlerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55BB9F40-C4CC-465B-86A0-97650A0B10C4}|RawPace.csproj|solutionrelative:controllers\\bowlerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{55BB9F40-C4CC-465B-86A0-97650A0B10C4}|RawPace.csproj|c:\\users\\adithya\\myprojectang\\raw-pace-api\\rawpace\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{55BB9F40-C4CC-465B-86A0-97650A0B10C4}|RawPace.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55BB9F40-C4CC-465B-86A0-97650A0B10C4}|RawPace.csproj|c:\\users\\adithya\\myprojectang\\raw-pace-api\\rawpace\\models\\speedrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55BB9F40-C4CC-465B-86A0-97650A0B10C4}|RawPace.csproj|solutionrelative:models\\speedrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55BB9F40-C4CC-465B-86A0-97650A0B10C4}|RawPace.csproj|c:\\users\\adithya\\myprojectang\\raw-pace-api\\rawpace\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55BB9F40-C4CC-465B-86A0-97650A0B10C4}|RawPace.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{55BB9F40-C4CC-465B-86A0-97650A0B10C4}|RawPace.csproj|c:\\users\\adithya\\myprojectang\\raw-pace-api\\rawpace\\models\\bowler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -19,16 +27,16 @@
       "RelativeMoniker": "D:0:0:{55BB9F40-C4CC-465B-86A0-97650A0B10C4}|RawPace.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{55BB9F40-C4CC-465B-86A0-97650A0B10C4}|RawPace.csproj|c:\\users\\adithya\\myprojectang\\raw-pace-api\\rawpace\\models\\injuryrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55BB9F40-C4CC-465B-86A0-97650A0B10C4}|RawPace.csproj|solutionrelative:models\\injuryrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{55BB9F40-C4CC-465B-86A0-97650A0B10C4}|RawPace.csproj|c:\\users\\adithya\\myprojectang\\raw-pace-api\\rawpace\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{55BB9F40-C4CC-465B-86A0-97650A0B10C4}|RawPace.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{55BB9F40-C4CC-465B-86A0-97650A0B10C4}|RawPace.csproj|c:\\users\\adithya\\myprojectang\\raw-pace-api\\rawpace\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{55BB9F40-C4CC-465B-86A0-97650A0B10C4}|RawPace.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{55BB9F40-C4CC-465B-86A0-97650A0B10C4}|RawPace.csproj|c:\\users\\adithya\\myprojectang\\raw-pace-api\\rawpace\\controllers\\bowlerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{55BB9F40-C4CC-465B-86A0-97650A0B10C4}|RawPace.csproj|solutionrelative:controllers\\bowlerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{55BB9F40-C4CC-465B-86A0-97650A0B10C4}|RawPace.csproj|c:\\users\\adithya\\myprojectang\\raw-pace-api\\rawpace\\rawpace.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -42,33 +50,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\Adithya\\myprojectAng\\raw-pace-api\\RawPace\\Models\\User.cs",
-              "RelativeDocumentMoniker": "Models\\User.cs",
-              "ToolTip": "C:\\Users\\Adithya\\myprojectAng\\raw-pace-api\\RawPace\\Models\\User.cs",
-              "RelativeToolTip": "Models\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-19T07:21:18.389Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AuthController.cs",
-              "DocumentMoniker": "C:\\Users\\Adithya\\myprojectAng\\raw-pace-api\\RawPace\\Controllers\\AuthController.cs",
-              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
-              "ToolTip": "C:\\Users\\Adithya\\myprojectAng\\raw-pace-api\\RawPace\\Controllers\\AuthController.cs",
-              "RelativeToolTip": "Controllers\\AuthController.cs",
-              "ViewState": "AgIAACgAAAAAAAAAAAAAAEUAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-16T08:35:03.666Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
             },
             {
               "$type": "Document",
@@ -78,59 +72,62 @@
               "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
               "ToolTip": "C:\\Users\\Adithya\\myprojectAng\\raw-pace-api\\RawPace\\Data\\ApplicationDbContext.cs",
               "RelativeToolTip": "Data\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-09T08:37:08.54Z",
+              "WhenOpened": "2026-05-09T08:37:08.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BowlersController.cs",
+              "DocumentMoniker": "C:\\Users\\Adithya\\myprojectAng\\raw-pace-api\\RawPace\\Controllers\\BowlersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BowlersController.cs",
+              "ToolTip": "C:\\Users\\Adithya\\myprojectAng\\raw-pace-api\\RawPace\\Controllers\\BowlersController.cs",
+              "RelativeToolTip": "Controllers\\BowlersController.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAUwF4AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T14:46:08.995Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "RawPace.csproj",
-              "DocumentMoniker": "C:\\Users\\Adithya\\myprojectAng\\raw-pace-api\\RawPace\\RawPace.csproj",
-              "RelativeDocumentMoniker": "RawPace.csproj",
-              "ToolTip": "C:\\Users\\Adithya\\myprojectAng\\raw-pace-api\\RawPace\\RawPace.csproj",
-              "RelativeToolTip": "RawPace.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-05-09T08:36:27.345Z"
+              "DocumentIndex": 3,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Adithya\\myprojectAng\\raw-pace-api\\RawPace\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Adithya\\myprojectAng\\raw-pace-api\\RawPace\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAiwFoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T08:35:03.666Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Bowler.cs",
               "DocumentMoniker": "C:\\Users\\Adithya\\myprojectAng\\raw-pace-api\\RawPace\\Models\\Bowler.cs",
               "RelativeDocumentMoniker": "Models\\Bowler.cs",
               "ToolTip": "C:\\Users\\Adithya\\myprojectAng\\raw-pace-api\\RawPace\\Models\\Bowler.cs",
               "RelativeToolTip": "Models\\Bowler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-09T08:32:48.964Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+              "WhenOpened": "2026-05-09T08:32:48.964Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Adithya\\myprojectAng\\raw-pace-api\\RawPace\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\Adithya\\myprojectAng\\raw-pace-api\\RawPace\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-05-09T08:33:15.292Z"
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Adithya\\myprojectAng\\raw-pace-api\\RawPace\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Users\\Adithya\\myprojectAng\\raw-pace-api\\RawPace\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T07:21:18.389Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Adithya\\myprojectAng\\raw-pace-api\\RawPace\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -143,18 +140,50 @@
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "BowlersController.cs",
-              "DocumentMoniker": "C:\\Users\\Adithya\\myprojectAng\\raw-pace-api\\RawPace\\Controllers\\BowlersController.cs",
-              "RelativeDocumentMoniker": "Controllers\\BowlersController.cs",
-              "ToolTip": "C:\\Users\\Adithya\\myprojectAng\\raw-pace-api\\RawPace\\Controllers\\BowlersController.cs",
-              "RelativeToolTip": "Controllers\\BowlersController.cs",
-              "ViewState": "AgIAAC4AAAAAAAAAAAAAADgAAAA+AAAAAAAAAA==",
+              "Title": "InjuryRecord.cs",
+              "DocumentMoniker": "C:\\Users\\Adithya\\myprojectAng\\raw-pace-api\\RawPace\\Models\\InjuryRecord.cs",
+              "RelativeDocumentMoniker": "Models\\InjuryRecord.cs",
+              "ToolTip": "C:\\Users\\Adithya\\myprojectAng\\raw-pace-api\\RawPace\\Models\\InjuryRecord.cs",
+              "RelativeToolTip": "Models\\InjuryRecord.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-09T14:46:08.995Z"
+              "WhenOpened": "2026-05-19T07:59:50.24Z"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SpeedRecord.cs",
+              "DocumentMoniker": "C:\\Users\\Adithya\\myprojectAng\\raw-pace-api\\RawPace\\Models\\SpeedRecord.cs",
+              "RelativeDocumentMoniker": "Models\\SpeedRecord.cs",
+              "ToolTip": "C:\\Users\\Adithya\\myprojectAng\\raw-pace-api\\RawPace\\Models\\SpeedRecord.cs",
+              "RelativeToolTip": "Models\\SpeedRecord.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T11:42:57.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Adithya\\myprojectAng\\raw-pace-api\\RawPace\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Adithya\\myprojectAng\\raw-pace-api\\RawPace\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-09T08:33:15.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RawPace.csproj",
+              "DocumentMoniker": "C:\\Users\\Adithya\\myprojectAng\\raw-pace-api\\RawPace\\RawPace.csproj",
+              "RelativeDocumentMoniker": "RawPace.csproj",
+              "ToolTip": "C:\\Users\\Adithya\\myprojectAng\\raw-pace-api\\RawPace\\RawPace.csproj",
+              "RelativeToolTip": "RawPace.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-09T08:36:27.345Z"
             }
           ]
         }

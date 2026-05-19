@@ -9,5 +9,7 @@
         public string Status { get; set; } = string.Empty;
         public double OversBowled { get; set; }
         public string Specialty { get; set; } = string.Empty;
+
+        public int UserId { get; set; }
     }
 }
